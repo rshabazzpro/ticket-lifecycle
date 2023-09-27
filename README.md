@@ -2,15 +2,13 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Ticket Lifecycle: From Intake to Resolution</h1>
+This guide outlines the entire journey of a ticket, from its initial intake to final resolution, within the osTicket open-source help desk ticketing system.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
+<h2>Utilized Environments and Technologies</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -20,35 +18,43 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Stages of the Ticket Lifecycle</h2>
 
 - Intake
 - Assignment and Communication
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Implementation of Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/humozxh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this phase, I am initiating a ticket dedicated to a user named Karen, who is facing a critical business problem. I will be personally handling this ticket, working towards a resolution and providing an appropriate solution.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kpIBjhp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here, I observed the ticket, clicked on it, and initiated communication while making the necessary modifications to commence the process of executing and resolving the issue.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/laHa9rH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, I proceeded to tackle the issue, formulated a solution, communicated it to the customer, appended a note, and subsequently classified the ticket as "resolved."
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/nLtOp9s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Ticket/Issue - Successfully Closed and Resolved!
 </p>
 <br />
